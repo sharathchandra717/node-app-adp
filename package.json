@@ -1,0 +1,24 @@
+{
+  "name": "app-adp",
+  "version": "1.0.0",
+  "description": "step 1: npm install<br>\r step 2: npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharathchandra717/node-app-adp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharathchandra717/node-app-adp/issues"
+  },
+  "homepage": "https://github.com/sharathchandra717/node-app-adp#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
